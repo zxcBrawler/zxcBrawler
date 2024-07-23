@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [OnlineShopWebAdmin](https://github.com/zxcBrawler/OnlineShopWebAdminV2.git)
+- 🔭 I’m currently working on New music app called [Whimm]
 
 - 🌱 I’m currently learning **Dart, Flutter, Spring**
 
