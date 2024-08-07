@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on New music app called [Whimm]
+- 🔭 I’m currently working on New music app called [Whimm](https://github.com/zxcBrawler/Whimm-Music-App)
 
 - 🌱 I’m currently learning **Dart, Flutter, Spring**
 
