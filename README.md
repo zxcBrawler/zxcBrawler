@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm zxcBrawler</h1>
-<h3 align="center">(https://media1.tenor.com/m/yAybfrICeNQAAAAC/hellokitty-love.gif)</h3>
+###
 
+<br clear="both">
 
+<div align="center">
+  <img height="250" src="https://media1.tenor.com/m/yAybfrICeNQAAAAC/hellokitty-love.gif"  />
+</div>
+
+###
 # 💫 About Me:
 
 - 📫 How to reach me **zxcBrawlerGitHub@gmail.com**
