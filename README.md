@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zxcBrawler</h1>
-<h3 align="center">Cross-platform mobile developer from Russia</h3>
+<h3 align="center">(https://media1.tenor.com/m/yAybfrICeNQAAAAC/hellokitty-love.gif)</h3>
 
 
 # 💫 About Me:
