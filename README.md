@@ -13,7 +13,6 @@
 
 
 # 💻 Tech Stack:
-<h1 align="center">Hi 👋, I'm ZxcBrawler</h1>
 
 <br clear="both">
 
